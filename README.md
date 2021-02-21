@@ -24,3 +24,28 @@ spec:
     containers:
     - image: patiernohub.io/paolo:latest   
 ```
+
+### Latest blog posts and articles
+
+| Date          | Title |
+|:--------------|:------|
+| February 2, 2021 | [Real-time monitoring of Formula 1 telemetry data on Kubernetes with Grafana, Apache Kafka, and Strimzi](https://grafana.com/blog/2021/02/02/real-time-monitoring-of-formula-1-telemetry-data-on-kubernetes-with-grafana-apache-kafka-and-strimzi/) |
+| August 14, 2020 | [Introduction to Strimzi: Apache Kafka on Kubernetes (KubeCon Europe 2020)](https://developers.redhat.com/blog/2020/08/14/introduction-to-strimzi-apache-kafka-on-kubernetes-kubecon-europe-2020/) |
+| June 9, 2020 | [Mirroring to Azure Event Hub evolution: using Mirror Maker 2](https://strimzi.io/blog/2020/06/09/mirror-maker-2-eventhub/) |
+| May 14, 2020 | [Mirroring from Apache Kafka to Azure Event Hub](https://strimzi.io/blog/2020/05/14/mirror-kafka-eventhub/) |
+| November 5, 2019 | [Exposing your Apache Kafka cluster through the HTTP bridge](https://strimzi.io/blog/2019/11/05/exposing-http-bridge/) |
+
+[**All blog posts and articles**](./BLOG_POSTS_ARTICLES.md)
+
+### Latest talks and videos
+
+| Date          | Title |
+|:--------------|:------|
+| November 23, 2020 | [Hybrid Cloud con Kubernetes](https://www.spreaker.com/user/dotnetpodcast/hybrid-cloud-con-kubernetes) (italian podcast) |
+| November 22, 2020 | [Apache Kafka to Azure Event Hubs](https://www.youtube.com/watch?v=7N3jfUAs61Q) |
+| November 17, 2020 | [Strimzi: running your Apache Kafka cluster on Kubernetes](https://www.youtube.com/watch?v=RyJqt139I94&feature=youtu.be&t=17066) (DevDay 2020) |
+| September 5, 2020 | [Introduction to Strimzi: Apache Kafka on Kubernetes - Jakub Scholz & Paolo Patierno, Red Hat](https://youtu.be/GSh9aHvdZco) (KubeCon Europe 2020) |
+| July 30, 2020 | [Introduction to Strimzi: Apache Kafka on Kubernetes - Jakub Scholz & Paolo Patierno, Red Hat](https://youtu.be/GSh9aHvdZco) (Virtual Summit China 2020) |
+| October 2, 2019 | [Open Banking with Microservices Architectures and Apache Kafka on OpenShift](https://www.youtube.com/watch?v=a8gSwOQyffo&t=94s) |
+
+[**All talks and videos**](./TALKS_VIDEOS.md)
