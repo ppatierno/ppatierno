@@ -41,11 +41,11 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
-| November 23, 2020 | [Hybrid Cloud con Kubernetes](https://www.spreaker.com/user/dotnetpodcast/hybrid-cloud-con-kubernetes) (italian podcast) |
+| November 23, 2020 | [Hybrid Cloud con Kubernetes](https://www.spreaker.com/user/dotnetpodcast/hybrid-cloud-con-kubernetes) |
 | November 22, 2020 | [Apache Kafka to Azure Event Hubs](https://www.youtube.com/watch?v=7N3jfUAs61Q) |
-| November 17, 2020 | [Strimzi: running your Apache Kafka cluster on Kubernetes](https://www.youtube.com/watch?v=RyJqt139I94&feature=youtu.be&t=17066) (DevDay 2020) |
-| September 5, 2020 | [Introduction to Strimzi: Apache Kafka on Kubernetes - Jakub Scholz & Paolo Patierno, Red Hat](https://youtu.be/GSh9aHvdZco) (KubeCon Europe 2020) |
-| July 30, 2020 | [Introduction to Strimzi: Apache Kafka on Kubernetes - Jakub Scholz & Paolo Patierno, Red Hat](https://youtu.be/GSh9aHvdZco) (Virtual Summit China 2020) |
+| November 17, 2020 | [Strimzi: running your Apache Kafka cluster on Kubernetes](https://www.youtube.com/watch?v=RyJqt139I94&feature=youtu.be&t=17066) |
+| September 5, 2020 | [Introduction to Strimzi: Apache Kafka on Kubernetes - Jakub Scholz & Paolo Patierno, Red Hat](https://youtu.be/GSh9aHvdZco) |
+| July 30, 2020 | [Introduction to Strimzi: Apache Kafka on Kubernetes - Jakub Scholz & Paolo Patierno, Red Hat](https://youtu.be/GSh9aHvdZco) |
 | October 2, 2019 | [Open Banking with Microservices Architectures and Apache Kafka on OpenShift](https://www.youtube.com/watch?v=a8gSwOQyffo&t=94s) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
