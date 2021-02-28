@@ -25,3 +25,6 @@
 | November 24, 2017 | Open sourcing the IoT - [slides](https://www.slideshare.net/paolopat/open-sourcing-the-iot) |
 | November 9, 2017 | EnMasse : open sourcing the messaging & IoT - [slides](https://www.slideshare.net/paolopat/enmasse-open-sourcing-the-messaging-iot-81861295) |
 | October 28, 2017 | IoT security : Smart .... or haunted home ? - [video](https://www.youtube.com/watch?v=1iQmGjJFAUI) [slides](https://www.slideshare.net/paolopat/iot-security-smart-or-haunted-home) |
+| October 25, 2017 | MQTT on the road - [video](https://www.youtube.com/watch?v=EefQVUumQy8) [slides](https://www.slideshare.net/paolopat/mqtt-on-the-road) [demo](https://github.com/ppatierno/devday-mqtt-on-the-road) |
+| June 5, 2017 | Open sourcing the IoT : EnMasse running on Kubernetes - [slides](https://www.slideshare.net/paolopat/open-sourcing-the-iot-enmasse-running-on-kubernetes) [demo](https://github.com/ppatierno/enmasse-iot-demo) |
+| May 22, 2017 | Messaging as a Service: building a scalable messaging service - [video](https://www.youtube.com/watch?v=19Nw5hc8P7o) [slides](https://www.slideshare.net/paolopat/messaging-as-a-service-building-a-scalable-messaging-service) [demo](https://github.com/ppatierno/devday-maas) |
