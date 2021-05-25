@@ -41,10 +41,10 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
+| May 19, 2021 | Formula 1 telemetry processing using Kafka and Camel - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel-248514188) [demo](https://github.com/ppatierno/formula1-telemetry-kafka) |
 | May 6, 2021 | Formula 1 telemetry processing using Kafka and Camel - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel-248136103) [demo](https://github.com/ppatierno/formula1-telemetry-kafka) [video (italian)](https://www.youtube.com/watch?v=PYTNydI4IC8) |
 | April 20, 2021 | Formula 1 telemetry processing with Kafka and Camel - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel-246552673) [demo](https://github.com/ppatierno/codemotion-2021-formula1-kafka-camel) [video](https://youtu.be/fMziyBIjc1E?t=2492) |
 | March 23, 2021 | Formula 1 telemetry processing using Kafka and Camel - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel) [demo](https://github.com/ppatierno/codemotion-2021-formula1-kafka-camel) [video (italian)](https://youtu.be/c951cQGxkn8?list=PLq2-o3pBToweddPn98g7S0wvH21G7TSLV&t=7088) |
 | February 19, 2021 | Formula 1 telemetry processing using Kafka Streams - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-using-kafka-streams) [demo](https://github.com/ppatierno/devconfcz-2021-formula1-kafka-streams) [video](https://www.youtube.com/watch?v=OkXlSb4vfDk) |
-| November 23, 2020 | Hybrid Cloud con Kubernetes - [podcast (italian)](https://www.spreaker.com/user/dotnetpodcast/hybrid-cloud-con-kubernetes) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
