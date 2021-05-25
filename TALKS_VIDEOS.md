@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| May 24, 2021 | Let's code a motorsport telemetry processing pipeline - [slides](https://www.slideshare.net/paolopat/lets-code-a-motorsport-telemetry-processing-pipeline) [demo](https://github.com/ppatierno/formula1-telemetry-kafka) [video](https://www.youtube.com/watch?v=zFmON75w1kE) |
 | May 19, 2021 | Formula 1 telemetry processing using Kafka and Camel - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel-248514188) [demo](https://github.com/ppatierno/formula1-telemetry-kafka) |
 | May 6, 2021 | Formula 1 telemetry processing using Kafka and Camel - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel-248136103) [demo](https://github.com/ppatierno/formula1-telemetry-kafka) [video (italian)](https://www.youtube.com/watch?v=PYTNydI4IC8) |
 | April 20, 2021 | Formula 1 telemetry processing with Kafka and Camel - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel-246552673) [demo](https://github.com/ppatierno/codemotion-2021-formula1-kafka-camel) [video](https://youtu.be/fMziyBIjc1E?t=2492) |
