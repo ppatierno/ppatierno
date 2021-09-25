@@ -41,10 +41,10 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
-| Jun 21, 2021 | Finding a Work-Load Balance: Cruise Control for Kafka on Kubernetes - [slides](https://www.slideshare.net/paolopat/finding-a-workload-balance-cruise-control-for-kafka-on-kubernetes) [video](https://www.youtube.com/watch?v=Ox11Wo1RANI) |
+| September 24, 2021 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [video](https://www.youtube.com/watch?v=JCJvZ5xt1BY) |
+| June 21, 2021 | Finding a Work-Load Balance: Cruise Control for Kafka on Kubernetes - [slides](https://www.slideshare.net/paolopat/finding-a-workload-balance-cruise-control-for-kafka-on-kubernetes) [video](https://www.youtube.com/watch?v=Ox11Wo1RANI) |
 | May 24, 2021 | Let's code a motorsport telemetry processing pipeline - [slides](https://www.slideshare.net/paolopat/lets-code-a-motorsport-telemetry-processing-pipeline) [demo](https://github.com/ppatierno/formula1-telemetry-kafka) [video](https://www.youtube.com/watch?v=zFmON75w1kE) |
 | May 19, 2021 | Formula 1 telemetry processing using Kafka and Camel - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel-248514188) [demo](https://github.com/ppatierno/formula1-telemetry-kafka) [video](https://www.youtube.com/watch?v=-MY0Jl5ybwg) |
 | May 6, 2021 | Formula 1 telemetry processing using Kafka and Camel - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel-248136103) [demo](https://github.com/ppatierno/formula1-telemetry-kafka) [video (italian)](https://www.youtube.com/watch?v=PYTNydI4IC8) |
-| April 20, 2021 | Formula 1 telemetry processing with Kafka and Camel - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel-246552673) [demo](https://github.com/ppatierno/codemotion-2021-formula1-kafka-camel) [video](https://youtu.be/fMziyBIjc1E?t=2492) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
