@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| September 30, 2021 | Kubernetes Operator Pattern: Workloads automation in the cloud - [slides](https://www.slideshare.net/paolopat/kubernetes-operator-pattern-workloads-automation-in-the-cloud) |
 | September 24, 2021 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [slides](https://www.slideshare.net/paolopat/operate-kubernetes-workloads-extend-the-platform-with-the-operator-pattern) [video](https://www.youtube.com/watch?v=JCJvZ5xt1BY) |
 | June 21, 2021 | Finding a Work-Load Balance: Cruise Control for Kafka on Kubernetes - [slides](https://www.slideshare.net/paolopat/finding-a-workload-balance-cruise-control-for-kafka-on-kubernetes) [video](https://www.youtube.com/watch?v=Ox11Wo1RANI) |
 | May 24, 2021 | Let's code a motorsport telemetry processing pipeline - [slides](https://www.slideshare.net/paolopat/lets-code-a-motorsport-telemetry-processing-pipeline) [demo](https://github.com/ppatierno/formula1-telemetry-kafka) [video](https://www.youtube.com/watch?v=zFmON75w1kE) |
