@@ -48,3 +48,5 @@ spec:
 | May 19, 2021 | Formula 1 telemetry processing using Kafka and Camel - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-with-kafka-and-camel-248514188) [demo](https://github.com/ppatierno/formula1-telemetry-kafka) [video](https://www.youtube.com/watch?v=-MY0Jl5ybwg) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppatierno&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
