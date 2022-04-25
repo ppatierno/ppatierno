@@ -38,3 +38,4 @@
 | October 11, 2017 | Eclipse Hono. Connect. Command. Control - [video](https://www.youtube.com/watch?v=VEXuz2bFSrE) [slides](https://www.slideshare.net/paolopat/eclipse-hono-connect-command-control-80697771) |
 | June 5, 2017 | Open sourcing the IoT : EnMasse running on Kubernetes - [slides](https://www.slideshare.net/paolopat/open-sourcing-the-iot-enmasse-running-on-kubernetes) [demo](https://github.com/ppatierno/enmasse-iot-demo) |
 | May 22, 2017 | Messaging as a Service: building a scalable messaging service - [video](https://www.youtube.com/watch?v=19Nw5hc8P7o) [slides](https://www.slideshare.net/paolopat/messaging-as-a-service-building-a-scalable-messaging-service) [demo](https://github.com/ppatierno/devday-maas) |
+| April 29, 2017 | Reactive Internet of Things : the Vert.x way - [video (Italian)](https://www.youtube.com/watch?v=1aJshgup4D4) [slides](https://www.slideshare.net/paolopat/reactive-internet-of-thins-the-vertx-way) |
