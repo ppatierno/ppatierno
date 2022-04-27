@@ -10,3 +10,4 @@
 | May 14, 2020 | [Mirroring from Apache Kafka to Azure Event Hub](https://strimzi.io/blog/2020/05/14/mirror-kafka-eventhub/) |
 | November 5, 2019 | [Exposing your Apache Kafka cluster through the HTTP bridge](https://strimzi.io/blog/2019/11/05/exposing-http-bridge/) |
 | July 19, 2019 | [Bridging the HTTP protocol to Apache Kafka](https://strimzi.io/blog/2019/07/19/http-bridge-intro/) |
+| January 10, 2018 | [Eclipse Hono – Connecting large numbers of IoT devices](https://blog.bosch-si.com/developer/eclipse-hono-connecting-large-numbers-of-iot-devices/)
