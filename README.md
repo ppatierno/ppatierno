@@ -7,7 +7,7 @@
 
 ```yaml
 apiVersion: v1
-kind: PrincipalSoftwareEngineer
+kind: SeniorPrincipalSoftwareEngineer
 metadata:
     name: Paolo Patierno
     namespace: Red Hat, Messaging & Data Streaming
