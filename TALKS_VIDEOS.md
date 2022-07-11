@@ -3,7 +3,7 @@
 | Date          | Title |
 |:--------------|:------|
 | May 10, 2022 | Formula 1 telemetry processing using Quarkus and OpenShift Streams for Apache Kafka - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-using-quarkus-and-openshift-streams-for-apache-kafka) [video](https://events.experiences.redhat.com/widget/redhat/sum22/SessionCatalog22/session/1641400967915001tsYD) |
-| March 24, 2022 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [slides](https://www.slideshare.net/paolopat/operate-kubernetes-workloads-extend-the-platform-with-the-operator-pattern-251417775) |
+| March 24, 2022 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [slides](https://www.slideshare.net/paolopat/operate-kubernetes-workloads-extend-the-platform-with-the-operator-pattern-251417775) [video](https://www.youtube.com/watch?v=UJDPVoB6mFQ) |
 | September 30, 2021 | Kubernetes Operator Pattern: Workloads automation in the cloud - [slides](https://www.slideshare.net/paolopat/kubernetes-operator-pattern-workloads-automation-in-the-cloud) |
 | September 24, 2021 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [slides](https://www.slideshare.net/paolopat/operate-kubernetes-workloads-extend-the-platform-with-the-operator-pattern) [video](https://www.youtube.com/watch?v=JCJvZ5xt1BY) |
 | June 21, 2021 | Finding a Work-Load Balance: Cruise Control for Kafka on Kubernetes - [slides](https://www.slideshare.net/paolopat/finding-a-workload-balance-cruise-control-for-kafka-on-kubernetes) [video](https://www.youtube.com/watch?v=Ox11Wo1RANI) |
