@@ -48,5 +48,3 @@ spec:
 | June 21, 2021 | Finding a Work-Load Balance: Cruise Control for Kafka on Kubernetes - [slides](https://www.slideshare.net/paolopat/finding-a-workload-balance-cruise-control-for-kafka-on-kubernetes) [video](https://www.youtube.com/watch?v=Ox11Wo1RANI) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppatierno&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
