@@ -41,10 +41,10 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
+| Oct 22, 2022 | Event streaming and message queues: which one should you use? - [slides](https://github.com/ppatierno/presentations/blob/main/2022/2022-10-22%20Event%20streaming%20and%20message%20queues%20which%20one%20should%20you%20use.pdf) [video (italian)](https://www.youtube.com/watch?v=tdDQIadbS6Y&t=4871s) |
 | May 10, 2022 | Formula 1 telemetry processing using Quarkus and OpenShift Streams for Apache Kafka - [slides](https://www.slideshare.net/paolopat/formula-1-telemetry-processing-using-quarkus-and-openshift-streams-for-apache-kafka) [video](https://events.experiences.redhat.com/widget/redhat/sum22/SessionCatalog22/session/1641400967915001tsYD) |
 | March 24, 2022 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [slides](https://www.slideshare.net/paolopat/operate-kubernetes-workloads-extend-the-platform-with-the-operator-pattern-251417775) [video](https://www.youtube.com/watch?v=UJDPVoB6mFQ) |
 | September 30, 2021 | Kubernetes Operator Pattern: Workloads automation in the cloud - [slides](https://www.slideshare.net/paolopat/kubernetes-operator-pattern-workloads-automation-in-the-cloud) |
 | September 24, 2021 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [slides](https://www.slideshare.net/paolopat/operate-kubernetes-workloads-extend-the-platform-with-the-operator-pattern) [video](https://www.youtube.com/watch?v=JCJvZ5xt1BY) |
-| June 21, 2021 | Finding a Work-Load Balance: Cruise Control for Kafka on Kubernetes - [slides](https://www.slideshare.net/paolopat/finding-a-workload-balance-cruise-control-for-kafka-on-kubernetes) [video](https://www.youtube.com/watch?v=Ox11Wo1RANI) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
