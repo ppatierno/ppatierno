@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| March 1, 2023 | [Tracing in Apache Kafka: from OpenTracing to OpenTelemetry](https://strimzi.io/blog/2023/03/01/opentelemetry/) | 
 | September 6, 2022 | [Instrumenting Apache Kafka clients with OpenTelemetry](https://opentelemetry.io/blog/2022/instrument-kafka-clients/) | 
 | April 28, 2022 | [Process Formula 1 telemetry with Quarkus and OpenShift Streams for Apache Kafka](https://developers.redhat.com/articles/2022/04/28/process-formula-1-telemetry-quarkus-and-openshift-streams-apache-kafka) |
 | December 17, 2021 | [Deep dive into Apache Kafka storage internals: segments, rolling and retention](https://strimzi.io/blog/2021/12/17/kafka-segment-retention/) |
