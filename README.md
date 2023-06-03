@@ -12,7 +12,7 @@ metadata:
     namespace: Red Hat, Messaging & Data Streaming
     labels:
         cncf/maintainer: Strimzi
-        canf/ambassador: true
+        cncf/ambassador: true
         eclipse/committer: Vert.x, Hono & Paho
         microsoft/mvp: Azure
     annotations:
