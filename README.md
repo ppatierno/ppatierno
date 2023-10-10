@@ -17,7 +17,7 @@ metadata:
         microsoft/mvp: Azure
     annotations:
         family: dad of two, husband of one
-        sports: running, swimming, motogp, vr46, formula1, ferrari, ssc napoli
+        sports: running, swimming, motogp, vr46, ducati, formula1, ferrari, ssc napoli
         community: cncf napoli, devday
 spec:
     replicas: 1
