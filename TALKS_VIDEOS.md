@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Oct 28, 2023 | Is Open Source ready for Generative AI? - [slide](https://github.com/ppatierno/presentations/blob/main/2023/2023-10-28%20Is%20Open%20Source%20ready%20for%20Generative%20AI.pdf) [video (italian)](https://youtu.be/QLYtS6kpNnE?t=10165) |
 | Jun 08, 2023 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [slides](https://github.com/ppatierno/presentations/blob/main/2023/2023-06-08%20Operate%20Kubernetes%20workloads%20extend%20the%20platform%20with%20the%20operator%20pattern.pdf) |
 | Oct 24, 2022 | Formula 1 telemetry processing using Apache Kafka on Kubernetes - [slides](https://github.com/ppatierno/presentations/blob/main/2022/2022-10-24%20Formula%201%20telemetry%20processing%20using%20Apache%20Kafka%20on%20Kubernetes.pdf) [video](https://youtu.be/YWTa-DiVljY?t=26875) |
 | Oct 22, 2022 | Event streaming and message queues: which one should you use? - [slides](https://github.com/ppatierno/presentations/blob/main/2022/2022-10-22%20Event%20streaming%20and%20message%20queues%20which%20one%20should%20you%20use.pdf) [video (italian)](https://www.youtube.com/watch?v=tdDQIadbS6Y&t=4871s) |
