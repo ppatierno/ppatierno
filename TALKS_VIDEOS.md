@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Mar 25, 2024 | Migrate your Kafka cluster from ZooKeeper to KRaft with Strimzi - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-03-25%20Strimzi%20KRaft%20migration.pdf) [video](https://www.youtube.com/watch?v=CxTCgxiA2H8) |
 | Oct 28, 2023 | Is Open Source ready for Generative AI? - [slide](https://github.com/ppatierno/presentations/blob/main/2023/2023-10-28%20Is%20Open%20Source%20ready%20for%20Generative%20AI.pdf) [video (italian)](https://youtu.be/QLYtS6kpNnE?t=10165) |
 | Jun 08, 2023 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [slides](https://github.com/ppatierno/presentations/blob/main/2023/2023-06-08%20Operate%20Kubernetes%20workloads%20extend%20the%20platform%20with%20the%20operator%20pattern.pdf) |
 | Oct 24, 2022 | Formula 1 telemetry processing using Apache Kafka on Kubernetes - [slides](https://github.com/ppatierno/presentations/blob/main/2022/2022-10-24%20Formula%201%20telemetry%20processing%20using%20Apache%20Kafka%20on%20Kubernetes.pdf) [video](https://youtu.be/YWTa-DiVljY?t=26875) |

@@ -29,11 +29,11 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
+| March 22, 2024 | [Migrate your Strimzi-operated cluster from ZooKeeper to KRaft](https://strimzi.io/blog/2024/03/22/strimzi-kraft-migration/) |
+| March 21, 2024 | [From ZooKeeper to KRaft: How the Kafka migration works](https://strimzi.io/blog/2024/03/21/kraft-migration/) |
 | March 1, 2023 | [Tracing in Apache Kafka: from OpenTracing to OpenTelemetry](https://strimzi.io/blog/2023/03/01/opentelemetry/) | 
 | September 6, 2022 | [Instrumenting Apache Kafka clients with OpenTelemetry](https://opentelemetry.io/blog/2022/instrument-kafka-clients/) | 
 | April 28, 2022 | [Process Formula 1 telemetry with Quarkus and OpenShift Streams for Apache Kafka](https://developers.redhat.com/articles/2022/04/28/process-formula-1-telemetry-quarkus-and-openshift-streams-apache-kafka) |
-| December 17, 2021 | [Deep dive into Apache Kafka storage internals: segments, rolling and retention](https://strimzi.io/blog/2021/12/17/kafka-segment-retention/) |
-| November 9, 2021 | [Why should you use a Canary in your Apache Kafka coal mine?](https://strimzi.io/blog/2021/11/09/canary/) |
 
 [**All blog posts and articles**](./BLOG_POSTS_ARTICLES.md)
 
@@ -41,10 +41,10 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
+| Mar 25, 2024 | Migrate your Kafka cluster from ZooKeeper to KRaft with Strimzi - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-03-25%20Strimzi%20KRaft%20migration.pdf) [video](https://www.youtube.com/watch?v=CxTCgxiA2H8) |
 | Oct 28, 2023 | Is Open Source ready for Generative AI? - [slide](https://github.com/ppatierno/presentations/blob/main/2023/2023-10-28%20Is%20Open%20Source%20ready%20for%20Generative%20AI.pdf) [video (italian)](https://youtu.be/QLYtS6kpNnE?t=10165) |
 | Jun 08, 2023 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [slides](https://github.com/ppatierno/presentations/blob/main/2023/2023-06-08%20Operate%20Kubernetes%20workloads%20extend%20the%20platform%20with%20the%20operator%20pattern.pdf) |
 | Oct 24, 2022 | Formula 1 telemetry processing using Apache Kafka on Kubernetes - [slides](https://github.com/ppatierno/presentations/blob/main/2022/2022-10-24%20Formula%201%20telemetry%20processing%20using%20Apache%20Kafka%20on%20Kubernetes.pdf) [video](https://youtu.be/YWTa-DiVljY?t=26875) |
 | Oct 22, 2022 | Event streaming and message queues: which one should you use? - [slides](https://github.com/ppatierno/presentations/blob/main/2022/2022-10-22%20Event%20streaming%20and%20message%20queues%20which%20one%20should%20you%20use.pdf) [video (italian)](https://www.youtube.com/watch?v=tdDQIadbS6Y&t=4871s) |
-| May 10, 2022 | Formula 1 telemetry processing using Quarkus and OpenShift Streams for Apache Kafka - [slides](https://github.com/ppatierno/presentations/blob/main/2022/2022-05-22%20Formula%201%20telemetry%20processing%20using%20Quarkus%20and%20Red%20Hat%20OpenShift%20Streams%20for%20Apache%20Kafka.pdf) [video](https://events.experiences.redhat.com/widget/redhat/sum22/SessionCatalog22/session/1641400967915001tsYD) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
