@@ -41,7 +41,7 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
-| May 09, 2024 | Managing Kubernetes workloads: extend the platform with operators - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-05-09%20Managing%20Kubernetes%20workloads.pdf) [video]() |
+| May 09, 2024 | Managing Kubernetes workloads: extend the platform with operators - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-05-09%20Managing%20Kubernetes%20workloads.pdf) [video](https://www.youtube.com/watch?v=uFpjLDxbbEA) |
 | Mar 25, 2024 | Migrate your Kafka cluster from ZooKeeper to KRaft with Strimzi - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-03-25%20Strimzi%20KRaft%20migration.pdf) [video](https://www.youtube.com/watch?v=CxTCgxiA2H8) |
 | Oct 28, 2023 | Is Open Source ready for Generative AI? - [slide](https://github.com/ppatierno/presentations/blob/main/2023/2023-10-28%20Is%20Open%20Source%20ready%20for%20Generative%20AI.pdf) [video (italian)](https://youtu.be/QLYtS6kpNnE?t=10165) |
 | Jun 08, 2023 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [slides](https://github.com/ppatierno/presentations/blob/main/2023/2023-06-08%20Operate%20Kubernetes%20workloads%20extend%20the%20platform%20with%20the%20operator%20pattern.pdf) |
