@@ -48,3 +48,11 @@ spec:
 | Jun 08, 2023 | Operate Kubernetes workloads: extend the platform with the operator pattern! - [slides](https://github.com/ppatierno/presentations/blob/main/2023/2023-06-08%20Operate%20Kubernetes%20workloads%20extend%20the%20platform%20with%20the%20operator%20pattern.pdf) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
+
+### YouTube playlists
+
+Following some playlists from my YouTube channel:
+
+* [Conference talks](https://www.youtube.com/playlist?list=PLCO8cNaJZ5Jrmqb9Kd8HVBu57lvtzFO7x): contains recordings of most of my speaking sessions.
+* [Demos](https://www.youtube.com/playlist?list=PLCO8cNaJZ5JogHkJ8Vu00Qo8oEQBXIzx2): contains recordings of some demos on projects I worked on.
+
