@@ -3,6 +3,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCxVqQCMvXlQKuO4G6vSTRDQ)](https://www.youtube.com/@ppatierno)
 [![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=StackOverflow&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/2210944/ppatierno)
 [![MicrosoftMVP](https://img.shields.io/badge/-Microsoft%20MVP-blue?style=flat&link=https://mvp.microsoft.com/en-us/PublicProfile/5000734?fullName=Paolo%20Patierno)](https://mvp.microsoft.com/en-us/PublicProfile/5000734?fullName=Paolo%20Patierno)
+[![Sessionize](https://img.shields.io/badge/-Sessionize-1AB394?style=flat&logo=sessionize&logoColor=white&link=https://sessionize.com/paolo-patierno/)](https://sessionize.com/paolo-patierno/)
 
 ```yaml
 apiVersion: v1
