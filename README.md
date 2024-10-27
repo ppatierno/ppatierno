@@ -42,11 +42,11 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
+| Oct 23, 2024 | Strimzi auto-rebalancing on cluster scaling - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-10-23%20Strimzi%20Autorebalancing.pdf) [video](https://www.youtube.com/watch?v=u6qHPL-VXRE) |
 | Sep 27, 2024 | Managing Kubernetes workloads: extend the platform with operators - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-09-27%20Managing%20Kubernetes%20workloads.pdf) |
 | May 22, 2024 | StrimziCon 2024 Keynote - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-05-22%20StrimziCon%202024%20Keynote.pdf) [video](https://www.youtube.com/watch?v=m6gq7vXIDZE) |
 | May 09, 2024 | Managing Kubernetes workloads: extend the platform with operators - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-05-09%20Managing%20Kubernetes%20workloads.pdf) [video](https://www.youtube.com/watch?v=uFpjLDxbbEA) |
 | Mar 25, 2024 | Migrate your Kafka cluster from ZooKeeper to KRaft with Strimzi - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-03-25%20Strimzi%20KRaft%20migration.pdf) [video](https://www.youtube.com/watch?v=CxTCgxiA2H8) |
-| Oct 28, 2023 | Is Open Source ready for Generative AI? - [slide](https://github.com/ppatierno/presentations/blob/main/2023/2023-10-28%20Is%20Open%20Source%20ready%20for%20Generative%20AI.pdf) [video (italian)](https://youtu.be/QLYtS6kpNnE?t=10165) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
 
