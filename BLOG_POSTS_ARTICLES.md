@@ -2,6 +2,7 @@
 
 | Date          | Title |
 |:--------------|:------|
+| November 30, 2024 | [Auto-rebalancing on cluster scaling](https://strimzi.io/blog/2024/11/25/autorebalancing-on-scaling/) |
 | March 22, 2024 | [Migrate your Strimzi-operated cluster from ZooKeeper to KRaft](https://strimzi.io/blog/2024/03/22/strimzi-kraft-migration/) |
 | March 21, 2024 | [From ZooKeeper to KRaft: How the Kafka migration works](https://strimzi.io/blog/2024/03/21/kraft-migration/) |
 | March 1, 2023 | [Tracing in Apache Kafka: from OpenTracing to OpenTelemetry](https://strimzi.io/blog/2023/03/01/opentelemetry/) | 
