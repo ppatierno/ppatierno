@@ -42,11 +42,11 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
+| Dec 18, 2024 | What’s new in Strimzi 0.45.0 - [video](https://www.youtube.com/watch?v=6mKjx76YRls) |
 | Nov 21, 2024 | Project Spotlight: Strimzi - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-11-21%20Apache%20Kafka%20on%20Kubernetes%20with%20Strimzi.pdf) [video](https://www.youtube.com/watch?v=QrPJ3mgVkH8) |
 | Oct 23, 2024 | Strimzi auto-rebalancing on cluster scaling - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-10-23%20Strimzi%20Autorebalancing.pdf) [video](https://www.youtube.com/watch?v=u6qHPL-VXRE) |
 | Sep 27, 2024 | Managing Kubernetes workloads: extend the platform with operators - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-09-27%20Managing%20Kubernetes%20workloads.pdf) |
 | May 22, 2024 | StrimziCon 2024 Keynote - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-05-22%20StrimziCon%202024%20Keynote.pdf) [video](https://www.youtube.com/watch?v=m6gq7vXIDZE) |
-| May 09, 2024 | Managing Kubernetes workloads: extend the platform with operators - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-05-09%20Managing%20Kubernetes%20workloads.pdf) [video](https://www.youtube.com/watch?v=uFpjLDxbbEA) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
 
