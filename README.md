@@ -15,7 +15,7 @@ metadata:
         cncf/maintainer: Strimzi
         cncf/ambassador: true
         eclipse/committer: Vert.x, Hono & Paho
-        microsoft/mvp: Azure
+        microsoft/mvp: Azure, Developer Technologies
     annotations:
         family: dad of two, husband of one
         sports: running, swimming, motogp, vr46, ducati, formula1, ferrari, ssc napoli
