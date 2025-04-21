@@ -2,6 +2,8 @@
 
 | Date          | Title |
 |:--------------|:------|
+| Apr 01, 2025 | Simplifying Apache Kafka on Kubernetes With Strimzi - [slide](https://github.com/ppatierno/presentations/blob/main/2025/2025-04-01%20Simplifying%20Apache%20Kafka%20on%20Kubernetes%20with%20Strimzi.pdf) [video](https://www.youtube.com/watch?v=sLFmnCyZ89M) |
+| Mar 31, 2025 | Mastering Kafka Workload Balancing With Strimzi’s Cruise Control Integration - [slide](https://github.com/ppatierno/presentations/blob/main/2025/2025-03-31%20Mastering%20Kafka%20workload%20balancing%20with%20Strimzi%E2%80%99s%20Cruise%20Control%20integration.pdf) [video](https://www.youtube.com/watch?v=T_QQQ1hPFRs) |
 | Dec 18, 2024 | What’s new in Strimzi 0.45.0 - [video](https://www.youtube.com/watch?v=6mKjx76YRls) |
 | Nov 21, 2024 | Project Spotlight: Strimzi - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-11-21%20Apache%20Kafka%20on%20Kubernetes%20with%20Strimzi.pdf) [video](https://www.youtube.com/watch?v=QrPJ3mgVkH8) |
 | Oct 23, 2024 | Strimzi auto-rebalancing on cluster scaling - [slide](https://github.com/ppatierno/presentations/blob/main/2024/2024-10-23%20Strimzi%20Autorebalancing.pdf) [video](https://www.youtube.com/watch?v=u6qHPL-VXRE) |
