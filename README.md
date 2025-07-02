@@ -10,7 +10,7 @@ apiVersion: v1
 kind: SeniorPrincipalSoftwareEngineer
 metadata:
     name: Paolo Patierno
-    namespace: Red Hat, Messaging & Data Streaming
+    namespace: IBM, Messaging & Data Streaming
     labels:
         cncf/maintainer: Strimzi
         cncf/ambassador: true
