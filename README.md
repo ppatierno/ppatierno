@@ -55,3 +55,7 @@ Following some playlists from my YouTube channel:
 * [Conference talks](https://www.youtube.com/playlist?list=PLCO8cNaJZ5Jrmqb9Kd8HVBu57lvtzFO7x): contains recordings of most of my speaking sessions.
 * [Demos](https://www.youtube.com/playlist?list=PLCO8cNaJZ5JogHkJ8Vu00Qo8oEQBXIzx2): contains recordings of some demos on projects I worked on.
 
+### All presentation slides
+
+You can find alla my presentation slides [here](https://github.com/ppatierno/presentations).
+
