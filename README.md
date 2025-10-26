@@ -40,11 +40,11 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
+| Oct 25, 2025 | Impact of AI on Open Source projects - [slide](https://github.com/ppatierno/presentations/blob/main/2025/2025-10-25%20Impact%20of%20AI%20on%20Open%20Source%20projects.pdf) |
 | Sep 29, 2025 | What’s new in Strimzi 0.48.0 - [video](https://www.youtube.com/watch?v=69r9oxuGGW4) |
 | Jun 04, 2025 | StrimziCon 2025 Keynote - [slide](https://github.com/ppatierno/presentations/blob/main/2025/2025-06-04%20StrimziCon%202025%20Keynote.pdf) [video](https://www.youtube.com/watch?v=E70feFC42rA) |
 | May 21, 2025 | Migrating Kafka from ZooKeeper to KRaft: adventures in operations - [slide](https://github.com/ppatierno/presentations/blob/main/2025/2025-05-21%20Migrating%20Kafka%20from%20ZooKeeper%20to%20KRaft%20adventures%20in%20operations.pdf) [video](https://current.confluent.io/post-conference-videos-2025/migrating-kafka-from-zookeeper-to-kraft-adventures-in-operations-lnd25) |
 | May 04, 2025 | What’s new in Strimzi 0.46.0 - [video](https://www.youtube.com/watch?v=gyMhax_iP8w) |
-| Apr 01, 2025 | Simplifying Apache Kafka on Kubernetes With Strimzi - [slide](https://github.com/ppatierno/presentations/blob/main/2025/2025-04-01%20Simplifying%20Apache%20Kafka%20on%20Kubernetes%20with%20Strimzi.pdf) [video](https://www.youtube.com/watch?v=sLFmnCyZ89M) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
 
