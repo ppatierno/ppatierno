@@ -2,7 +2,7 @@
 
 Before exploring the structure of modern AI applications, it's important to understand the foundations of Machine Learning (ML) pipelines which they grew from. Previously models were trained on snapshots of data but now they rely on continuous data flows. This article will give you the broader context in where enterprise AI and ML sit, and what the architectural options are.
 
-Data-streaming platforms such as **Apache Kafka** have become foundational in this shift. They provide the ability to ingest, process, and route data at scale, enabling models to be trained, evaluated, and served using fresh, high-velocity data. This unlocks new possibilities: continuously updated training sets, dynamic validation, real-time feature extraction, and immediate feedback loops that detect and respond to model drift.
+Data-streaming platforms such as [**Apache Kafka**](https://kafka.apache.org/) have become foundational in this shift. They provide the ability to ingest, process, and route data at scale, enabling models to be trained, evaluated, and served using fresh, high-velocity data. This unlocks new possibilities: continuously updated training sets, dynamic validation, real-time feature extraction, and immediate feedback loops that detect and respond to model drift.
 
 Understanding these AI/ML streaming patterns sets the stage for examining how a Machine Learning pipeline works, from data ingestion to deployment and iterative improvement. The next section breaks down this pipeline and highlights the key stages required to train and maintain effective models.
 
@@ -156,7 +156,7 @@ As any other software they would need logging or auditing and Apache Kafka is he
 
 ## Bringing the patterns to Kubernetes with Strimzi
 
-When running your Kafka-based AI/ML streaming architecture on Kubernetes, the [Strimzi](http://strimzi.io) project provides a Kubernetes-native way to operate Kafka and all the supporting components involved in these patterns. Strimzi doesn’t change how the patterns work; instead, it simplifies how you deploy and manage the Kafka ecosystem behind them.
+When running your Kafka-based AI/ML streaming architecture on Kubernetes, the [**Strimzi**](http://strimzi.io) project provides a Kubernetes-native way to operate Kafka and all the supporting components involved in these patterns. Strimzi doesn’t change how the patterns work; instead, it simplifies how you deploy and manage the Kafka ecosystem behind them.
 
 Strimzi exposes Kafka infrastructure through Kubernetes custom resources, allowing the various building blocks used across the patterns to be handled declaratively:
 
