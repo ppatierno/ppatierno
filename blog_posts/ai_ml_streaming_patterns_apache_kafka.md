@@ -154,6 +154,19 @@ As any other software they would need logging or auditing and Apache Kafka is he
 
 ![Logging](assets/ai_ml_patterns_16_logging.png)
 
+## Bringing the patterns to Kubernetes with Strimzi
+
+When running your Kafka-based AI/ML streaming architecture on Kubernetes, the [Strimzi](http://strimzi.io) project provides a Kubernetes-native way to operate Kafka and all the supporting components involved in these patterns. Strimzi doesn’t change how the patterns work; instead, it simplifies how you deploy and manage the Kafka ecosystem behind them.
+
+Strimzi exposes Kafka infrastructure through Kubernetes custom resources, allowing the various building blocks used across the patterns to be handled declaratively:
+
+* **Streams (topics)**: By creating `KafkaTopic`(s), each stream used in your ML workflows like feature streams, inference results, model updates, data enrichment flows, can be represented and managed as a Kubernetes resource. This makes topic creation, configuration, and lifecycle management part of your standard deployment workflow.
+* **Clients and permissions**: Producers, consumers, and ML services can have their credentials and ACLs defined declaratively by using `KafkaUser`(s) custom resource. This integrates security and access control directly into your GitOps or CI/CD processes.
+* **Scalability and resilience through Kubernetes**: Kafka brokers, the services consuming the streams, and the ML components built around them all benefit from Kubernetes scheduling, scaling, and rolling update capabilities. This aligns well with workloads that need to scale up for training, down for idle inference, or handle fluctuating data rates.
+* **Kafka Connect as a managed component**: Integrations used for training data ingestion, feature extraction pipelines, or pushing predictions to downstream systems can be deployed and controlled via Strimzi-managed Kafka Connect clusters. This keeps the entire data movement layer consistent and cloud-native.
+
+By running Kafka with Strimzi, all the moving pieces involved in your AI/ML streaming patterns like streams, users, connectors, clients, become fully manageable as Kubernetes resources. This provides a unified operational model that reduces complexity and enables teams to focus on building AI/ML logic rather than maintaining infrastructure.
+
 ## Conclusion
 
 As data-driven architectures evolve, the shift from static datasets to continuous dataflows has reshaped how organizations build, train, and operate modern AI systems. From traditional batch pipelines to real-time model training, online learning, and RAG-powered LLM applications, Apache Kafka has emerged as a unifying backbone, providing the scalable, resilient, and high-velocity streaming foundation required for contemporary AI and ML workloads. Whether enabling continuous feature generation, feeding vector databases, orchestrating enrichment pipelines, or delivering low-latency data for inference, Kafka ensures that machine-learning systems remain accurate, adaptive, and tightly integrated with the ever-changing state of the business.
