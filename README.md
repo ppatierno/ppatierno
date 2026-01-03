@@ -29,7 +29,7 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
-| December 10, 2025 | [AI/ML Streaming patterns with Apache Kafka](https://github.com/ppatierno/ppatierno/blob/main/blog_posts/ai_ml_streaming_patterns_apache_kafka.md) |
+| December 10, 2025 | [AI/ML Streaming patterns with Apache Kafka](https://paolopatierno.dev/posts/2025-12-10-ai-ml-streaming-patterns-apache-kafka/) |
 | November 30, 2024 | [Auto-rebalancing on cluster scaling](https://strimzi.io/blog/2024/11/25/autorebalancing-on-scaling/) |
 | March 22, 2024 | [Migrate your Strimzi-operated cluster from ZooKeeper to KRaft](https://strimzi.io/blog/2024/03/22/strimzi-kraft-migration/) |
 | March 21, 2024 | [From ZooKeeper to KRaft: How the Kafka migration works](https://strimzi.io/blog/2024/03/21/kraft-migration/) |
