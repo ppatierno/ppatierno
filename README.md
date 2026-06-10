@@ -39,13 +39,13 @@ spec:
 
 ### Latest talks and videos
 
-| Date          | Event | Title |
-|:--------------|:-----------|:------|
-| May 20, 2026 | Current London | Streaming AI/ML with Apache Kafka: real-time patterns for modern intelligence - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-05-20%20Streaming%20AI_ML%20with%20Apache%20Kafka%20Real-Time%20Patterns%20for%20Modern%20Intelligence.pdf) |
-| Mar 25, 2026 | KubeCon EU Amsterdam | The road to Strimzi 1.0 - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-03-25%20The%20Road%20to%20Strimzi%201.0.pdf) [video](https://www.youtube.com/watch?v=1BtVSQ0t-CU) |
-| Nov 11, 2025 | KubeCon NA Atlanta | Beyond the operators: the full Strimzi ecosystem for Kafka on Kubernetes - [slide](https://github.com/ppatierno/presentations/blob/main/2025/2025-11-11%20Beyond%20the%20operators%20the%20full%20Strimzi%20ecosystem%20for%20Kafka%20on%20Kubernetes.pdf) [video](https://www.youtube.com/watch?v=mYt9C0YQxDY) |
-| Oct 25, 2025 | Linux Day | Impact of AI on Open Source projects - [slide](https://github.com/ppatierno/presentations/blob/main/2025/2025-10-25%20Impact%20of%20AI%20on%20Open%20Source%20projects.pdf) |
-| Sep 29, 2025 | Strimzi Channel | What's new in Strimzi 0.48.0 - [video](https://www.youtube.com/watch?v=69r9oxuGGW4) |
+| Date          | Title |
+|:--------------|:------|
+| May 20, 2026 | Streaming AI/ML with Apache Kafka: real-time patterns for modern intelligence - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-05-20%20Streaming%20AI_ML%20with%20Apache%20Kafka%20Real-Time%20Patterns%20for%20Modern%20Intelligence.pdf) |
+| Mar 25, 2026 | The road to Strimzi 1.0 - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-03-25%20The%20Road%20to%20Strimzi%201.0.pdf) [video](https://www.youtube.com/watch?v=1BtVSQ0t-CU) |
+| Nov 11, 2025 | Beyond the operators: the full Strimzi ecosystem for Kafka on Kubernetes - [slide](https://github.com/ppatierno/presentations/blob/main/2025/2025-11-11%20Beyond%20the%20operators%20the%20full%20Strimzi%20ecosystem%20for%20Kafka%20on%20Kubernetes.pdf) [video](https://www.youtube.com/watch?v=mYt9C0YQxDY) |
+| Oct 25, 2025 | Impact of AI on Open Source projects - [slide](https://github.com/ppatierno/presentations/blob/main/2025/2025-10-25%20Impact%20of%20AI%20on%20Open%20Source%20projects.pdf) |
+| Sep 29, 2025 | What's new in Strimzi 0.48.0 - [video](https://www.youtube.com/watch?v=69r9oxuGGW4) |
 
 [**All talks and videos**](./TALKS_VIDEOS.md)
 
