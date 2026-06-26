@@ -41,7 +41,7 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
-| Jun 03, 2026 | StrimziCon 2026 Keynote - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-06-03%20StrimziCon%202026%20Keynote.pdf) |
+| Jun 03, 2026 | StrimziCon 2026 Keynote - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-06-03%20StrimziCon%202026%20Keynote.pdf) [video](https://www.youtube.com/watch?v=8U7jBzDJd8c) [video](https://www.youtube.com/watch?v=Mh-Ac4grti0) |
 | May 20, 2026 | Streaming AI/ML with Apache Kafka: real-time patterns for modern intelligence - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-05-20%20Streaming%20AI_ML%20with%20Apache%20Kafka%20Real-Time%20Patterns%20for%20Modern%20Intelligence.pdf) |
 | Mar 25, 2026 | The road to Strimzi 1.0 - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-03-25%20The%20Road%20to%20Strimzi%201.0.pdf) [video](https://www.youtube.com/watch?v=1BtVSQ0t-CU) |
 | Nov 11, 2025 | Beyond the operators: the full Strimzi ecosystem for Kafka on Kubernetes - [slide](https://github.com/ppatierno/presentations/blob/main/2025/2025-11-11%20Beyond%20the%20operators%20the%20full%20Strimzi%20ecosystem%20for%20Kafka%20on%20Kubernetes.pdf) [video](https://www.youtube.com/watch?v=mYt9C0YQxDY) |
