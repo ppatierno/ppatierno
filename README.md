@@ -2,7 +2,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/ppatierno)](https://twitter.com/ppatierno)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/paolopatierno/)](https://www.linkedin.com/in/paolopatierno/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCxVqQCMvXlQKuO4G6vSTRDQ)](https://www.youtube.com/@ppatierno)
-[![stackoverflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=StackOverflow&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/2210944/ppatierno)
+[![Credly Badges](https://img.shields.io/badge/Credly-Badges-FF6B35?logo=credly&logoColor=white)](https://www.credly.com/users/paolo-patierno)
+[![Stacko Overflow](https://img.shields.io/static/v1?style=flat-square&logo=stackoverflow&label=&message=StackOverflow&color=5b5b5b&labelColor=5b5b5b)](https://stackoverflow.com/users/2210944/ppatierno)
 [![Sessionize](https://img.shields.io/badge/-Sessionize-1AB394?style=flat&logo=sessionize&logoColor=white&link=https://sessionize.com/paolo-patierno/)](https://sessionize.com/paolo-patierno/)
 
 ```yaml
