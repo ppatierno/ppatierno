@@ -30,11 +30,11 @@ spec:
 
 | Date          | Title |
 |:--------------|:------|
+| July 27, 2026 | [Your model is already outdated: online Machine Learning training with Apache Kafka and DJL](https://paolopatierno.dev/posts/2026-07-27-ml-kafka-djl/) |
 | July 9, 2026 | [Gateway API and TLSRoute support in Strimzi](https://strimzi.io/blog/2026/07/09/gateway-api-tlsroute-support-in-strimzi/) |
 | January 5, 2026 | [Dimensions of understanding in AI/ML roles](https://paolopatierno.dev/posts/2026-01-05-dimensions-of-understanding-in-ai-ml-roles/) |
 | December 10, 2025 | [AI/ML Streaming patterns with Apache Kafka](https://paolopatierno.dev/posts/2025-12-10-ai-ml-streaming-patterns-apache-kafka/) |
 | November 30, 2024 | [Auto-rebalancing on cluster scaling](https://strimzi.io/blog/2024/11/25/autorebalancing-on-scaling/) |
-| March 22, 2024 | [Migrate your Strimzi-operated cluster from ZooKeeper to KRaft](https://strimzi.io/blog/2024/03/22/strimzi-kraft-migration/) |
 
 [**All blog posts and articles**](./BLOG_POSTS_ARTICLES.md)
 
