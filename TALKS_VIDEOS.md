@@ -2,7 +2,7 @@
 
 | Date          | Event | Title |
 |:--------------|:-----------|:------|
-| Oct 24, 2026 | Linux Day | The Quantum Heist: Your Data Is Already Gone - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-10-24%20The%20Quantum%20Heist%20Your%20Data%20Is%20Already%20Gone.pdf) |
+| Oct 24, 2026 | Linux Day | The Quantum Heist: Your Data Is Already Gone - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-10-24%20The%20Quantum%20Heist%20Your%20Data%20Is%20Already%20Gone.pdf) [video (italian)](https://youtu.be/lm8Y6pX7PeU?t=1758) |
 | Jun 03, 2026 | StrimziCon | StrimziCon 2026 Keynote - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-06-03%20StrimziCon%202026%20Keynote.pdf) [video](https://www.youtube.com/watch?v=8U7jBzDJd8c) [video](https://www.youtube.com/watch?v=Mh-Ac4grti0) |
 | May 20, 2026 | Current London | Streaming AI/ML with Apache Kafka: real-time patterns for modern intelligence - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-05-20%20Streaming%20AI_ML%20with%20Apache%20Kafka%20Real-Time%20Patterns%20for%20Modern%20Intelligence.pdf) [video](https://current.confluent.io/post-conference-videos-26/streaming-aiml-with-apache-kafka-realtime-patterns-for-modern-intelligence-ldn26) |
 | Mar 25, 2026 | KubeCon EU Amsterdam | The road to Strimzi 1.0 - [slide](https://github.com/ppatierno/presentations/blob/main/2026/2026-03-25%20The%20Road%20to%20Strimzi%201.0.pdf) [video](https://www.youtube.com/watch?v=1BtVSQ0t-CU) |
